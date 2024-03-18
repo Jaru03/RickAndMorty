@@ -1,0 +1,11 @@
+.status{
+    background-color: grey;
+}
+
+.Alive{
+    background-color: green;
+}
+
+.Dead{
+    background-color: red;
+}

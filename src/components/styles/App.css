@@ -1,0 +1,12 @@
+body{
+    background-color: #05292E;
+}
+
+.fondoRick{
+    background-image: url('../../../img/fondo.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50vh;
+}
